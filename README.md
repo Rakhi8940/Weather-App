@@ -1,1 +1,1 @@
-# Weather-App
+# Weather-AppWelcome to the Weather App! This application provides real-time weather information by utilizing the OpenWeatherMap API. It is built using HTML, CSS, and JavaScript. Users can check the weather in any location by entering the city name, and the app will display relevant weather details such as temperature, humidity, and weather conditions.
