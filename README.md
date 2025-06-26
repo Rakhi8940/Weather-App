@@ -12,7 +12,7 @@ A sleek and fully responsive **Weather App** that empowers users to seamlessly s
 ## 📸 App Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d345ba05-5029-4f91-90b9-40cfd42a3334" alt="Weather App Screenshot 1" width="380" height="220" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"/>
+  <img src="https://github.com/user-attachments/assets/d345ba05-5029-4f91-90b9-40cfd42a3334" alt="Weather App Screenshot 1" width="380" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"/>
   <img src="https://github.com/user-attachments/assets/909c1f55-81b3-44b8-9b87-b6a7bdb114b8" alt="Weather App Screenshot 2" width="380" style="margin: 0 8px 12px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"/>
 </p>
 
