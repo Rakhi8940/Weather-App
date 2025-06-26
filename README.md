@@ -1,11 +1,11 @@
 <p align="center">
-  <!-- App avatar/logo image (replace path as needed) -->
-  <img src="images/weather-app-logo.png" alt="Weather App Logo" width="110" height="110" style="border-radius: 18px; margin-bottom: 16px;"/>
+  <!-- Replace the src below with your raw GitHub image URL once you have a logo! -->
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/sun-behind-cloud_26c5.png" alt="Weather App Logo" width="110" height="110" style="border-radius: 18px; margin-bottom: 16px;"/>
 </p>
 
 # ⛅ Weather App
 
-A sleek and fully responsive **Weather App** that empowers users to seamlessly search for and view real-time weather conditions for any city worldwide using the **OpenWeatherMap API**. This project is crafted with **HTML**, **CSS**, and **JavaScript**, featuring a modern, user-friendly UI, dynamic weather icons, live data fetching, and a mobile-first design that adapts elegantly to any device.
+A sleek and fully responsive **Weather App** that allows users to search for current weather conditions in any city using the **OpenWeatherMap API**. Built with **HTML**, **CSS**, and **JavaScript**, this app features a modern UI, real-time data fetching, attractive weather icons, and a mobile-first design.
 
 ---
 
