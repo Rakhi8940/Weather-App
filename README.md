@@ -4,6 +4,13 @@ A sleek and responsive **Weather App** that allows users to search for current w
 
 ---
 
+## 📸 App Preview
+
+![Weather App Screenshot![Screenshot 2025-02-15 194624](https://github.com/user-attachments/assets/d345ba05-5029-4f91-90b9-40cfd42a3334)
+![Screenshot 2025-02-15 194638](https://github.com/user-attachments/assets/909c1f55-81b3-44b8-9b87-b6a7bdb114b8)
+
+---
+
 ## 🌟 Features
 
 - 🔍 Search for weather by city name
@@ -44,7 +51,7 @@ This app uses the **OpenWeatherMap API**. You’ll need a free API key from:
 
 ---
 
-📱 Responsiveness
+## 📱 Responsiveness
 
 The UI is fully responsive using CSS media queries and Flexbox. It adapts to various screen sizes from desktop to smartphones.
 
@@ -52,17 +59,17 @@ The UI is fully responsive using CSS media queries and Flexbox. It adapts to var
 
 ## 🔮 Future Enhancements
 
-📍 Add "Use my location" feature with Geolocation API
-🕒 Show 5-day or hourly forecast using OpenWeatherMap's forecast API
-🎨 Add dark mode
-🌐 Support multiple languages/units (°C/°F toggle)
-🧪 Error handling for invalid city names or API failures
+📍 Add "Use my location" feature with Geolocation API  
+🕒 Show 5-day or hourly forecast using OpenWeatherMap's forecast API  
+🎨 Add dark mode  
+🌐 Support multiple languages/units (°C/°F toggle)  
+🧪 Error handling for invalid city names or API failures  
 
 ---
 
 ## 👨‍💻 Author
 
-Created by Rakhi Yadav
+Created by Rakhi Yadav  
 Contributions, issues, and feature requests are welcome!
 
 ---
